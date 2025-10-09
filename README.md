@@ -1,11 +1,11 @@
 # 👋 ¡Hola! Soy José Tomás Rodríguez
 
-💡 Actualmente me encuentro aprendiendo y mejorando mis habilidades en programación y desarrollo de software.  
+ Actualmente me encuentro aprendiendo y mejorando mis habilidades en programación y desarrollo de software.  
 Me apasiona la tecnología, la lógica detrás del código y la creación de soluciones que simplifiquen la vida de las personas. 🚀
 
 ---
 
-### 🧠 Lenguajes y Tecnologías que estoy aprendiendo:
+###  Lenguajes y Tecnologías que estoy aprendiendo:
 
 <div align="center">
 
@@ -23,15 +23,15 @@ Me apasiona la tecnología, la lógica detrás del código y la creación de sol
 
 ---
 
-### 📈 Un poco sobre mí:
+###  Un poco sobre mí:
 
-- 🔍 Me gusta experimentar con distintos lenguajes y plataformas.  
-- 🌱 Siempre estoy aprendiendo algo nuevo en el mundo del desarrollo.  
-- 💻 Mi meta es convertirme en un desarrollador versátil y creativo.
+-  Me gusta experimentar con distintos lenguajes y plataformas.  
+-  Siempre estoy aprendiendo algo nuevo en el mundo del desarrollo.  
+-  Mi meta es convertirme en un desarrollador versátil y creativo.
 
 ---
 
-### ⚙️ Estadísticas de GitHub:
+###  Estadísticas de GitHub:
 
 <div align="center">
 
@@ -42,5 +42,5 @@ Me apasiona la tecnología, la lógica detrás del código y la creación de sol
 
 ---
 
-⭐ **Gracias por visitar mi perfil.**  
-¡Siempre abierto a aprender y colaborar en nuevos proyectos! 🙌
+ **Gracias por visitar mi perfil.**  
+¡Siempre abierto a aprender y colaborar en nuevos proyectos! 
