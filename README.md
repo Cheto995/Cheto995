@@ -19,6 +19,8 @@ Me apasiona la tecnología, la lógica detrás del código y la creación de sol
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
@@ -66,13 +68,7 @@ Un proyecto que combina análisis de datos con visualización interactiva.
 
 </div>
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight)
-
-</div>
-
 ---
 
- **Gracias por visitar mi perfil.**  
-¡Siempre abierto a aprender y colaborar en nuevos proyectos! 
+**Gracias por visitar mi perfil.**  
+¡Siempre abierto a aprender y colaborar en nuevos proyectos!
