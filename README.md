@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy José Tomás Rodríguez
 
 Actualmente me encuentro aprendiendo y mejorando mis habilidades en programación y desarrollo de software.  
+Soy estudiante de tercer año de Ingeniería en Informática en Duoc UC.  
 Me apasiona la tecnología, la lógica detrás del código y la creación de soluciones que simplifiquen la vida de las personas. 🚀
 
 ---
@@ -31,9 +32,10 @@ Me apasiona la tecnología, la lógica detrás del código y la creación de sol
 
 ### 💡 Un poco sobre mí:
 
-- Me gusta experimentar con distintos lenguajes y plataformas.  
-- Siempre estoy aprendiendo algo nuevo en el mundo del desarrollo.  
-- Mi meta es convertirme en un desarrollador versátil y creativo.  
+- 🎓 Estudiante de tercer año de Ingeniería en Informática en Duoc UC  
+- Me gusta experimentar con distintos lenguajes y plataformas  
+- Siempre estoy aprendiendo algo nuevo en el mundo del desarrollo  
+- Mi meta es convertirme en un desarrollador versátil y creativo  
 
 ---
 
